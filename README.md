@@ -1,6 +1,7 @@
 # Streamify 🎬
 
-**A movie watching web application to explore, watch, and interact with movies.**
+**Streamify is a movie watching web application that allows users to explore,
+watch trailers, and interact with movies through comments and favorites.**
 
 ---
 
