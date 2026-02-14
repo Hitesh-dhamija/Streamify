@@ -53,11 +53,51 @@
 - Register an account on [TMDB](https://www.themoviedb.org/?language=vi)
 - In file .env.example fill the environment variable match then rename to .env
 
-### Preview
+### ScreenShots
 
-![Preview 1](https://res.cloudinary.com/annnn/image/upload/v1642508485/Screenshot_2022-01-18_191806_elqyem.png)
-![Preview 2](https://res.cloudinary.com/annnn/image/upload/v1642508509/Screenshot_2022-01-18_191834_hyysjs.png)
-![Preview 3](https://res.cloudinary.com/annnn/image/upload/v1642508518/Screenshot_2022-01-18_191932_hbvc4d.png)
+### 🔐 Login Page
+
+![LoginPage](./screenshots/Login.png)
+
+### 🏠 Home Page
+
+![HomePage](./screenshots/Homepage.png)
+
+### 🔍 Search Page
+
+![SearchPage](./screenshots/Search.png)
+
+### 🎬 Movie Section
+
+![Movie Section Page](./screenshots/MovieSection.png)
+
+### 🎭 Movie Categories
+
+![MovieCategories](./screenshots/MovieCategory1.png)
+
+### 🎭 Movie Categories (More)
+
+![Movie Categories](./screenshots/MovieCategory2.png)
+
+### 👥 Movie Cast
+
+![MovieCast](./screenshots/MovieCast.png)
+
+### 🎞 Trailers
+
+![Trailers](./screenshots/Trailers.png)
+
+### ▶ Watch Now
+
+![WatchNow](./screenshots/WatchNow.png)
+
+### 💬 Comments
+
+![Comments](./screenshots/Comments.png)
+
+### ❤️ Favourite Movies
+
+![FavouriteMovies](./screenshots/FavouriteMovies.png)
 
 ### Technology
 
